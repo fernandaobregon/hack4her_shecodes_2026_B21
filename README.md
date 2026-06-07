@@ -320,7 +320,7 @@ database/schema.sql
 ```
 
 La base completa con datos reales no se incluye en GitHub debido a su peso.
-Los archivos CSV originales y/o el respaldo completo de la base deben compartirse por Drive u otro medio externo.
+Los archivos CSV originales y/o el respaldo completo de la base se encuentran en Drive
 
 Tablas principales:
 
@@ -600,10 +600,10 @@ Proyecto desarrollado para Hack4Her SheCodes 2026 B21.
 
 Integrantes:
 
-* Arantza
-* Camila
-* Fer
-* Dulce
+* Arantza Gutierrez Dominguez
+* Camila Keilany Carrrillo Fuentes
+* María Fernanda Obregón Ramírez
+* Dulce María Gutierrez Dominguez
 
 ---
 
